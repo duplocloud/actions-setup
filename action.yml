@@ -1,5 +1,9 @@
 name: Duplocloud Setup
 description: Install Duplocloud tools and login.
+author: duplocloud
+branding:
+  icon: cpu
+  color: orange
 inputs:
   mask-account-id:
     description: Mask AWS Account ID in logs
